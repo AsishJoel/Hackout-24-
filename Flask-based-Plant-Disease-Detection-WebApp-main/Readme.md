@@ -82,7 +82,8 @@ Here are screenshots of the web-application:
 
 - **Dataset**: [PlantVillage Dataset](https://data.mendeley.com/datasets/tywbtsjrjv/1)
 - **Model architecture**: Inspired by [VGGNet](https://arxiv.org/abs/1409.1556)
-- **Flask web application**: Developed by Jay Dobariya.
+- **Flask web application**: Developed by Team Skill Issue for Hackout'24
+- .
 
 ## Contributing
 
@@ -92,4 +93,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any questions or feedback, please contact:
 
+
+Asish Joel - asishjoel.b@gmail.com
 Jay Dobariya - dobariyajay2004@gmail.com
